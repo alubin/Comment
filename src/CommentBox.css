@@ -1,0 +1,17 @@
+.CommentBox {
+  background: grey;
+  display: inline-flex;
+  margin: 15px;
+}
+
+
+.CommentInput {
+    margin: 15px;
+}
+
+.UserInput {
+    margin: 15px;
+}
+
+.CommentBoxButton {
+}
