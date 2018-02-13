@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import CommentBox from './CommentBox';
+import CommentBox from './MainDisplay';
 
 class App extends Component {
   render() {

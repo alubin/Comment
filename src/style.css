@@ -1,0 +1,26 @@
+.CommentBox {
+    background: grey;
+    display: inline-flex;
+    margin: 15px;
+}
+
+.Comment {
+    border-left: 6px solid #ccc !important;
+    border-color: #2196F3 !important;
+    padding: 0.01em 16px;
+    border-bottom: 1px;
+    border-color: #222222;
+    background-color: #ddffff!important;
+    margin-bottom: 5px;
+}
+
+.CommentInput {
+    margin: 15px;
+}
+
+.UserInput {
+    margin: 15px;
+}
+
+.CommentBoxButton {
+}
